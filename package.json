@@ -1,0 +1,31 @@
+{
+  "name": "routelens",
+  "version": "1.0.0",
+  "description": "An Acode plugin for discovering, analyzing, navigating, and documenting API routes across backend frameworks.",
+  "type": "module",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "acode",
+    "acode-plugin",
+    "api",
+    "routes",
+    "route-explorer",
+    "flask",
+    "express",
+    "laravel"
+  ],
+  "author": "Zylle",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "vitest": "^5.1.1"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

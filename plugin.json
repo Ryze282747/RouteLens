@@ -1,0 +1,47 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "com.zylle.routelens",
+  "name": "RouteLens",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "readme": "README.md",
+  "icon": "icon.png",
+  "changelogs": "CHANGELOG.md",
+  "files": [
+    "CHANGELOG.md"
+  ],
+  "author": {
+    "name": "Zylle Mojica",
+    "github": "Ryze282747"
+  },
+  "description": "A comprehensive API route explorer for Acode. Discover, analyze, navigate, and document backend routes across multiple frameworks.",
+  "keywords": [
+    "api",
+    "api-routes",
+    "route-explorer",
+    "route-discovery",
+    "route-analysis",
+    "route-navigation",
+    "api-documentation",
+    "endpoint-discovery",
+    "endpoint-mapping",
+    "automatic-rescan",
+    "workspace-monitoring",
+    "backend",
+    "backend-development",
+    "flask",
+    "express",
+    "laravel",
+    "fastapi",
+    "django",
+    "nestjs",
+    "javascript",
+    "typescript",
+    "python",
+    "php",
+    "developer-tools",
+    "productivity",
+    "acode"
+  ],
+  "license": "MIT"
+}
