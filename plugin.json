@@ -7,8 +7,11 @@
   "readme": "README.md",
   "icon": "icon.png",
   "changelogs": "CHANGELOG.md",
+  "repository": "https://github.com/Ryze282747/RouteLens",
   "files": [
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
   ],
   "author": {
     "name": "Zylle Mojica",
