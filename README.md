@@ -16,23 +16,23 @@ RouteLens brings discovered routes together into one organized, searchable works
 
 ### Interface
 
-![RouteLens interface](https://github.com/Ryze282747/RouteLens/blob/main/screenshots/interface.jpg)
+![RouteLens interface](https://raw.githubusercontent.com/Ryze282747/RouteLens/main/screenshots/interface.jpg)
 
 ### Discovered Routes
 
-![Discovered routes](https://github.com/Ryze282747/RouteLens/blob/main/screenshots/routes.jpg)
+![Discovered routes](https://raw.githubusercontent.com/Ryze282747/RouteLens/main/screenshots/routes.jpg)
 
 ### Route Details
 
-![Route details](https://github.com/Ryze282747/RouteLens/blob/main/screenshots/details.jpg)
+![Route details](https://raw.githubusercontent.com/Ryze282747/RouteLens/main/screenshots/details.jpg)
 
 ### Workspace Scanning
 
-![Workspace scanning](https://github.com/Ryze282747/RouteLens/blob/main/screenshots/scanning.jpg)
+![Workspace scanning](https://raw.githubusercontent.com/Ryze282747/RouteLens/main/screenshots/scanning.jpg)
 
 ### Route Declarations
 
-![Route declarations](https://github.com/Ryze282747/RouteLens/blob/main/screenshots/declaration.jpg)
+![Route declarations](https://raw.githubusercontent.com/Ryze282747/RouteLens/main/screenshots/declaration.jpg)
 
 ## Features
 
